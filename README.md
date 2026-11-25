@@ -1,3 +1,8 @@
+<!-- nah-org-context -->
+> **Organization:** **human design group** (GitHub handle: `human-design-group` — 1:1 with Human Design Group LLC)  
+> **Category:** HDG Internal Product (`the-human-collective/human-design-group/hdg-projects/`)  
+> **Shared Infrastructure:** Managed under `the-human-collective` (planned future LLC rename target).
+
 # Agento — Agent Workbench
 
 [![Release](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/human-design-group/nah-agent-workbench)
